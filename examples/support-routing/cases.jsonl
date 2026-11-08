@@ -1,0 +1,12 @@
+{"case_id":"train-1","split":"train","input":{"kind":"refund","days_since_purchase":14}}
+{"case_id":"train-2","split":"train","input":{"kind":"refund","days_since_purchase":42}}
+{"case_id":"train-3","split":"train","input":{"kind":"login"}}
+{"case_id":"train-4","split":"train","input":{"kind":"invoice"}}
+{"case_id":"validation-1","split":"validation","input":{"kind":"refund","days_since_purchase":29}}
+{"case_id":"validation-2","split":"validation","input":{"kind":"refund","days_since_purchase":31}}
+{"case_id":"validation-3","split":"validation","input":{"kind":"login"}}
+{"case_id":"validation-4","split":"validation","input":{"kind":"invoice"}}
+{"case_id":"test-1","split":"test","input":{"kind":"refund","days_since_purchase":30}}
+{"case_id":"test-2","split":"test","input":{"kind":"refund","days_since_purchase":90}}
+{"case_id":"test-3","split":"test","input":{"kind":"login"}}
+{"case_id":"test-4","split":"test","input":{"kind":"invoice"}}

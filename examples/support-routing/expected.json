@@ -1,0 +1,14 @@
+{
+  "train-1": "refund",
+  "train-2": "review",
+  "train-3": "account",
+  "train-4": "billing",
+  "validation-1": "refund",
+  "validation-2": "review",
+  "validation-3": "account",
+  "validation-4": "billing",
+  "test-1": "refund",
+  "test-2": "review",
+  "test-3": "account",
+  "test-4": "billing"
+}
